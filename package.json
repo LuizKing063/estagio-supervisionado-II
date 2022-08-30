@@ -1,0 +1,19 @@
+{
+  "name": "ConecteSUS",
+  "version": "1.0.0",
+  "description": "Criado por Luiz Gustavo para Estágio supervisionado II",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch assets/sass:assets/css"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "js"
+  ],
+  "author": "Luiz",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.49.10"
+  }
+}
